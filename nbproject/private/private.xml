@@ -2,6 +2,12 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Italo/Google%20Drive/projetoSenac/Livraria/src/java/br/com/livraria/dao/EditoraDao.java</file>
+            <file>file:/C:/Users/Italo/Google%20Drive/projetoSenac/Livraria/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Italo/Google%20Drive/projetoSenac/Livraria/web/includes/menu_principal.xhtml</file>
+            <file>file:/C:/Users/Italo/Google%20Drive/projetoSenac/Livraria/web/templates/modelo_template.xhtml</file>
+            <file>file:/C:/Users/Italo/Google%20Drive/projetoSenac/Livraria/web/pages/editora.xhtml</file>
+        </group>
     </open-files>
 </project-private>
